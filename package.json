@@ -16,7 +16,5 @@
     "url": "https://github.com/usheet/usheet.github.io/issues"
   },
   "homepage": "https://github.com/usheet/usheet.github.io#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/usheet"
-  }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
